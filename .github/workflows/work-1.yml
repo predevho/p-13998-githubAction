@@ -1,4 +1,4 @@
- name: work-1
+name: work-1
 on:
   push:
     paths:
